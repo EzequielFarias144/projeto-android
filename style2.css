@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body {
+    background-color: aquamarine;
+}
+
+body > form {
+    background-color: lightpink;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+form > fieldset {
+    margin: center;
+}
